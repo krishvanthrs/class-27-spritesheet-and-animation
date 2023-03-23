@@ -1,1 +1,2 @@
-# class-27-spritesheet-and-animation
+# PRO-C27-SA
+Boilerplate code for c27 SA
